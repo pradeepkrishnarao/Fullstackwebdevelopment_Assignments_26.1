@@ -1,0 +1,68 @@
+  .starter-template {
+    padding: 3rem 1.5rem;
+    text-align: center;
+  }
+  ul.lst{
+    padding: 0;
+    list-style-type: none;
+    }
+  .green{
+      background-color: #12BD55;
+      color: white;
+      border: 0px;
+      }
+    .red{
+      background-color: rgb(248, 6, 6);
+      color: white;
+      border: 0px;
+    }
+    .hrclr {
+      background-color: #F5F5F5;
+      background-size: 0.01em;
+    }
+    .bgc {
+      background-color: #F5F5F5;
+      height: 365px;
+      width: 365px;
+      margin-top: -2.5%;
+      padding: 20px 20px 20px 20px;
+      border-radius: 1.5% 1.5% 1.5% 1.5%;
+    }
+    .tabl{
+      padding: 10px;
+      width: 406px;
+      border-color: #90BDDD; 
+      border: solid;
+      border-width: 0.1px;
+      border-collapse: collapse;
+      border-radius: 0.30em;
+      overflow: hidden;
+    }
+    .trb {
+      background-color: #1475B9;
+      color: white;
+      font-size: 12px;
+    }
+    .trg {
+      color: #5e5b5b;
+      font-size: 11px;
+    }
+    .trp {
+      color: #8C84FF;
+      font-size: 11px;
+      width: 410px;
+      white-space: pre-line;
+    }
+    .cellb {
+      border-width: 0.1px;
+      border: solid;
+      border-color: #F5F5F5;
+    }
+    .divp{
+      border-color: #8C84FF;
+      width: 410px;
+      border-width: 0.1px;
+      border-radius: 2%;
+      border: solid;
+      padding: 0px;
+    }
